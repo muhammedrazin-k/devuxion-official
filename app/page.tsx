@@ -374,7 +374,7 @@ export default function Home() {
 
             {/* Instagram */}
             <motion.a
-              href="https://instagram.com"
+              href="https://www.instagram.com/devuxion/"
               target="_blank"
               rel="noopener noreferrer"
               className="social-icon"
